@@ -1,5 +1,8 @@
 # sciexpem
 
+This prototype has been developed within the work for the paper
+"Towards a scientific data framework to support scientific model development". The prototype contains a set of fully working features but also partially developed features and demo features.
+
 ### System requirements
 
 Python >= 3.6.7
