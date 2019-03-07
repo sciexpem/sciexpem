@@ -1,7 +1,8 @@
 # sciexpem
 
 This prototype has been developed within the work for the paper
-"Towards a scientific data framework to support scientific model development". The prototype contains a set of fully working features but also partially developed features and demo features.
+"Towards a scientific data framework to support scientific model development". The prototype contains a set of fully working features but also partially developed features and demo features. The main goal of this prototype was to better elicitate and refine the use cases and the requirements described in the paper.
+This software is under active development and can not be considered stable for usage.
 
 ### System requirements
 
